@@ -1,0 +1,13 @@
+name = "Remark Minion"
+license = "MIT"
+licenselink = "https://github.com/eueung/hugo-remark-minion/blob/master/LICENSE.md"
+description = "Remark Minion - Manage and publish Remark.JS slides with Hugo"
+homepage = "https://github.com/eueung/hugo-remark-minion/"
+tags = ["presentation", "slide", "remark", "google analytics", "custom themes"]
+features = ["remark.js", "pre-made templates", "shortcodes"]
+min_version = 0.18
+
+[author]
+    name = "Eueung Mulyana"
+    homepage = "https://eueung.github.io/"
+

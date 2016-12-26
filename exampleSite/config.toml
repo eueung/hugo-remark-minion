@@ -1,0 +1,11 @@
+baseurl         = "/"
+theme           = "remark-minion"
+languageCode    = "en-us"
+title           = "Site Title | Hugo Remark-Minion"
+canonifyurls    = true
+
+[params]
+  googleAnalytics = ""
+  name            = "Eueung Mulyana"
+  description     = "Demo slides for Hugo Remark Minion"
+  custom_css      = ["custom.css"]
