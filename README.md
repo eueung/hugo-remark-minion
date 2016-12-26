@@ -1,7 +1,7 @@
 # hugo-remark-minion
 Manage and write remark.js slides with Hugo.
 
-I'm using [remark](https://github.com/gnab/remark) quite a lot for my slides and weirdly also for documentation, especially if you have a lot of **codes** to be displayed. Previously I'm using some scripts to manage content before it passed to remark for final rendering. This project is an attempt (and an experiment) to manage content entirely with Hugo. What does it have to do with minions? :-) .. just look at the demo below! Don't worry, jackie is also there.
+I'm using [remark](https://github.com/gnab/remark) quite a lot for my slides and weirdly also for documentation. It helped a lot, especially if you have a bunch of **codes** to be displayed. Previously I'm using some scripts to manage content before it passed to remark for final rendering. This project is an attempt (and an experiment) to manage content entirely with Hugo. What does it have to do with minions? :-) .. just look at the demo below! Don't worry, jackie is also there.
 
 ![Screenshot](https://raw.githubusercontent.com/eueung/hugo-remark-minion/master/images/screenshot.png)
 
